@@ -1,4 +1,4 @@
-# JARVIS
+# Auto-Jarvis
 
 **This project is under construction and we will have all the code ready soon.**
 
